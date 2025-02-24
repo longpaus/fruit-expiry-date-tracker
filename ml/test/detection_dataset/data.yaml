@@ -1,0 +1,10 @@
+names:
+- Apple
+- Banana
+- Mango
+- Orange
+- Strawberry
+nc: 5
+test: ../test/images
+train: ../train/images
+val: ../valid/images

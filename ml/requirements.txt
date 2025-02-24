@@ -1,0 +1,11 @@
+fastapi
+fastapi[standard]
+uvicorn
+pillow
+torch
+torchvision
+ultralytics
+python-multipart
+pytest
+scikit-learn
+pyyaml
