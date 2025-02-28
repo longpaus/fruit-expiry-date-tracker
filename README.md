@@ -1,10 +1,10 @@
 # capstone-project-2024-t3-3900h11adigitalhaven
 
-Please refer to the [User guide](User guide.pdf) for clear instruction of how to use the product.
+For guidance on using the product, refer to the [User Guide](User%20Guide.pdf).
 
-Refer to the [software design documentation](Software Design Documents.pdf) for detailed explanation of the system. 
+For a detailed explanation of the system, see the [Software Design Documentation](Software%20Design%20Documents.pdf).
 
-Refer to the [system architecural diagrams](System Architecural Diagrams.pdf) for the diagrams of the system.
+For system diagrams, consult the [System Architectural Diagrams](System%20Architectural%20Diagrams.pdf).
 
 ## How to Run the App with Docker
 
