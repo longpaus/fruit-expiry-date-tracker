@@ -1,5 +1,11 @@
 # capstone-project-2024-t3-3900h11adigitalhaven
 
+Please refer to the [User guide](User guide.pdf) for clear instruction of how to use the product.
+
+Refer to the [software design documentation](Software Design Documents.pdf) for detailed explanation of the system. 
+
+Refer to the [system architecural diagrams](System Architecural Diagrams.pdf) for the diagrams of the system.
+
 ## How to Run the App with Docker
 
 1. Clone the Repository to your machine.
